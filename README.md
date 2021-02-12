@@ -12,9 +12,9 @@ We make use of speedtest CLI. Officitly taken from : https://www.speedtest.net/e
 Check that you have installed `speedtest` running:  
 `$ which speedtest`
 
-## How to usage?
+## How to use?
 1 - Go to this cloned repository folder.  
-2 - Run the help message:
+2 - Run the help message:  
 ` ./testmyinternetband.sh -h`
 
 ### Commond monthly registry usage
